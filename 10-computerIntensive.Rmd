@@ -1,0 +1,19 @@
+# Computación Intensiva y _Multiple Testing_
+
+:::: {.calloutBox .important}
+
+Este capítulo está pendiente de ser introducida en los apuntes.
+
+La versión actualizada estará disponible en el momento de inicio de la actividad, durante el semestre actual (2024-25-S1).
+
+::::
+
+Se introducen distintos métodos cuyo nexo común es la computación intensiva.
+
+## Tests de permutaciones; ¿Qué?, ¿Cuándo?, ¿Cómo?
+
+## El bootstrap en contraste de hipótesis
+
+## El problema de las comparaciones múltiples
+
+## Métodos de control de error: FWER y FDR
